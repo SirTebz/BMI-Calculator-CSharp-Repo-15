@@ -1,0 +1,8 @@
+C:\Users\mokgo\Desktop\CSharp\BMI_Calculator\BMI_Calculator\bin\Debug\BMI_Calculator.exe.config
+C:\Users\mokgo\Desktop\CSharp\BMI_Calculator\BMI_Calculator\bin\Debug\BMI_Calculator.exe
+C:\Users\mokgo\Desktop\CSharp\BMI_Calculator\BMI_Calculator\bin\Debug\BMI_Calculator.pdb
+C:\Users\mokgo\Desktop\CSharp\BMI_Calculator\BMI_Calculator\obj\Debug\BMI_Calculator.csproj.AssemblyReference.cache
+C:\Users\mokgo\Desktop\CSharp\BMI_Calculator\BMI_Calculator\obj\Debug\BMI_Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\mokgo\Desktop\CSharp\BMI_Calculator\BMI_Calculator\obj\Debug\BMI_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\mokgo\Desktop\CSharp\BMI_Calculator\BMI_Calculator\obj\Debug\BMI_Calculator.exe
+C:\Users\mokgo\Desktop\CSharp\BMI_Calculator\BMI_Calculator\obj\Debug\BMI_Calculator.pdb
